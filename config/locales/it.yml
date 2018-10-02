@@ -1,0 +1,3 @@
+# French strings go here for Rails i18n
+it:
+  label_use_system_setting: "Utilizzare le impostazioni di sistema"
